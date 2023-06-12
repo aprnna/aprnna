@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![image](https://github.com/Klowrr/Klowrr/assets/121468657/1be67687-1492-472c-a192-c3ae422bc34e)
+![image](https://media4.giphy.com/media/lHNs0JWxMZY134gSPq/giphy.gif?cid=ecf05e47qfvy113x5u7067m5xj0vjnuo0pa1totyy59yj9j8&ep=v1_stickers_search&rid=giphy.gif&ct=s)
 <!--
 **Klowrr/Klowrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
