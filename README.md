@@ -1,13 +1,16 @@
-### Hi there 👋
-![image](https://github.com/Klowrr/Klowrr/assets/121468657/1be67687-1492-472c-a192-c3ae422bc34e)
-![image](https://media4.giphy.com/media/lHNs0JWxMZY134gSPq/giphy.gif?cid=ecf05e47qfvy113x5u7067m5xj0vjnuo0pa1totyy59yj9j8&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+<div align='center'>
+  <h3>Hi there 👋</h3>
+  <img src='https://github.com/Klowrr/Klowrr/assets/121468657/1be67687-1492-472c-a192-c3ae422bc34e'/>
+  <p>
+    -🌱 I’m currently learning Web Developer 🌱-
+  </p>
+</div>
 <!--
 **Klowrr/Klowrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
