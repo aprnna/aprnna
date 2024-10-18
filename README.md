@@ -2,7 +2,7 @@
   <h3>Hi there 👋</h3>
   <img src='https://github.com/Klowrr/Klowrr/assets/121468657/1be67687-1492-472c-a192-c3ae422bc34e'/>
   <p>
-    -🌱 I’m currently learning Web Developer 🌱-
+    -🌱 I’m currently learning Web Development and game development 🌱-
   </p>
 </div>
 <!--
