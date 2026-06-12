@@ -36,7 +36,7 @@ Hi! I'm **Apriana Cahya** (you can call me **Apriana**), a passionate Software E
 - 🌱 Learning and exploring **Modern Web Architecture** & **Game Programming Patterns**
 - 🎮 In my free time, I enjoy gaming — it's where I draw inspiration for interactive UX
 - 🚀 I'm driven by building products that are **fast, accessible, and delightful** to use
-- 📫 Reach me: **aprianacahya.13@gmail.com** *(ganti dengan email lo)*
+- 📫 Reach me: **contact@aprnna.web.id**
 
 ---
 
